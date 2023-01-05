@@ -7,5 +7,4 @@ sdglsgld s;mnsbg
 sdkgm;sd,vs;
 slkdmv;
 
-"""
 print(a)
